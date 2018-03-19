@@ -20,7 +20,6 @@ public class Disciplina {
         this.nome = nome;
         this.departamento = departamento;
         this.status = status;
-        
     }
 
     public String getNome() {
@@ -52,5 +51,9 @@ public class Disciplina {
         return "Disciplina{" + "nome=" + nome + ", departamento=" + departamento + ", status=" + status + '}';
     }
     
+    
+
+    
+
     
 }
